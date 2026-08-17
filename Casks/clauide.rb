@@ -1,6 +1,6 @@
 cask "clauide" do
   version "0.1.4"
-  sha256 "30549607f89c77fa61a2cd036fa02258ef868d811b43a8c8ec2c69767a482f5e"
+  sha256 "4a238718baf7c5978e92e579add4abfd49f261f3c72a2ab7ba821fd7c610d878"
 
   url "https://github.com/clauide/clauide/releases/download/v#{version}/Clauide-#{version}-arm64.zip"
   name "Clauide"
