@@ -7,7 +7,7 @@ cask "clauide" do
   desc "Isolated Claude Code sessions in Docker containers"
   homepage "https://github.com/clauide/clauide"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
   depends_on arch: :arm64
 
   auto_updates true
